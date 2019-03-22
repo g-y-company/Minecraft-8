@@ -1,4 +1,4 @@
-::Farm Town Is An Open Source Batch Farm Simulator Made by Nicolas Hawrysh Currently v1.0
+::MineCraft 8 Is An Open Source Batch Farm Simulator Made by Mojang Currently v1.0
 
 ::To level up, you must buy 2 pigs, 2 chickens and 10 rows of corn.
 ::To level up to level 3, you must buy at least 1 cow and 20 rows of barley.
@@ -7,7 +7,7 @@
 
 ::There is a secret option that shows all history for purchased items if you type "history" in the main menu.
 @echo off
-TITLE Farm Town v1
+TITLE MINCECRAFT
 color 1f
 :start
 set name=
